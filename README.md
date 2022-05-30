@@ -8,5 +8,5 @@ This is a single page new website. This site is developed with HTML, CSS, Bootst
 
 ## Demo
 - Live
-    - [Blogger](https://fkiptooh.github.io/news-website/)
+    - [Blogger](https://fkiptooh.github.io/prototype2/)
 
